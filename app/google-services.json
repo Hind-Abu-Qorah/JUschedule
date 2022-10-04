@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "243590297830",
+    "firebase_url": "https://juschedule-b748f-default-rtdb.firebaseio.com",
+    "project_id": "juschedule-b748f",
+    "storage_bucket": "juschedule-b748f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243590297830:android:11baf5102083e3b5b7a327",
+        "android_client_info": {
+          "package_name": "com.example.juschedule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243590297830-b6hrnrogu2cquhgbmv9pf0hlarc8a1m2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV8t3kVLOXB85zIj6YM7uJEiwf-GdMaP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243590297830-b6hrnrogu2cquhgbmv9pf0hlarc8a1m2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243590297830:android:c1a5adada4edae60b7a327",
+        "android_client_info": {
+          "package_name": "com.example.myapplication7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243590297830-b6hrnrogu2cquhgbmv9pf0hlarc8a1m2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV8t3kVLOXB85zIj6YM7uJEiwf-GdMaP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243590297830-b6hrnrogu2cquhgbmv9pf0hlarc8a1m2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

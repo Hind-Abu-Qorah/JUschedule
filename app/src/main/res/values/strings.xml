@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JUschedule</string>
+    <string name="done">Done</string>
+    <string name="_3_hours">3 Hours</string>
+    <string name="c">c++</string>
+    <string name="courses">Courses</string>
+    <string name="bit">BIT</string>
+    <string name="todo">TODO</string>
+    <string name="item">Item</string>
+    <string name="schedule">Schedule</string>
+</resources>
